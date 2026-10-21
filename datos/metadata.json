@@ -1,0 +1,24 @@
+{
+  "fuente": "https://camara.cl/transparencia/datosAbiertos.aspx",
+  "api": "https://opendata.camara.cl/camaradiputados/WServices",
+  "fecha_descarga_utc": "2026-10-21T11:43:37+00:00",
+  "periodo": {
+    "inicio": "2022-03-11",
+    "fin_exclusivo": "2026-03-11"
+  },
+  "conteos": {
+    "diputados": 633,
+    "militancias": 1432,
+    "votaciones": 6480,
+    "votos": 849982,
+    "proyectos": 675,
+    "autorias": 2464
+  },
+  "votaciones_sin_votos": 2,
+  "votaciones_sin_boletin": 2353,
+  "boletines_sin_proyecto": 0,
+  "descargas_fallidas": {
+    "votaciones": [],
+    "proyectos": []
+  }
+}

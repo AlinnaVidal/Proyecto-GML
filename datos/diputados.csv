@@ -1,0 +1,634 @@
+diputado_id,nombre,sexo,nacimiento
+1,Mario Acuña Cisternas,Masculino,
+3,Gustavo Alessandri Valdés,Masculino,
+8,Rafael Arratia Valdebenito,Masculino,
+10,Nelson Avila Contreras,Masculino,
+11,Francisco Bartolucci Johnston,Masculino,
+13,Manuel Bustos Huerta,Masculino,
+15,Carlos Caminondo Sáez,Masculino,
+19,Juan Antonio Coloma Correa,Masculino,
+27,Sergio Elgueta Barrientos,Masculino,
+30,Alberto Espina Otero,Masculino,
+31,Haroldo Fossa Rojas,Masculino,
+35,José García Ruminot,Masculino,
+39,Homero Gutiérrez Román,Masculino,
+42,Miguel Hernández Saffirio,Masculino,
+43,Francisco Huenchumilla Jaramillo,Masculino,
+49,Tomás Jocelyn-Holt Letelier,Masculino,
+50,Enrique Krauss Rusque,Masculino,
+62,Gutenberg Martínez Ocamica,Masculino,
+65,Iván Mesías Lehú,Masculino,
+67,Luis Monge Sánchez,Masculino,
+74,Jaime Naranjo Ortiz,Masculino,1951-01-12T00:00:00
+76,Juan Núñez Valenzuela,Masculino,
+79,Jaime Orpis Bouchon,Masculino,
+81,María Victoria Ovalle Ovalle,Femenino,
+83,Andrés Palma Irarrázaval,Masculino,
+84,Joaquín Palma Irarrázaval,Masculino,
+85,Luis Pareto González,Masculino,
+91,Fanny Pollarolo Villa,Femenino,
+92,Marina Prochelle Aguilar,Femenino,
+93,Baldo Prokuriça Prokuriça,Masculino,
+95,Víctor Reyes Alvarado,Masculino,
+98,Jaime Rocha Manrique,Masculino,
+103,Antonella Sciaraffia Estrada,Femenino,
+106,Jorge Soria Macchiavello,Masculino,
+110,Salvador Urrutia Cárdenas,Masculino,
+111,Felipe Valenzuela Herrera,Masculino,
+112,Enrique Van Rysselberghe Varela,Masculino,
+114,Osvaldo Vega Vera,Masculino,
+115,Sergio Velasco De la Cerda,Masculino,
+119,Ignacio Walker Prieto,Masculino,
+121,María Rozas Velásquez,Femenino,
+132,Francisco Bayo Veloso,Masculino,1933-03-13T00:00:00
+137,Eliana Caraball Martínez,Femenino,1937-04-27T00:00:00
+140,Patricio Cornejo Vidaurrázaga,Masculino,1942-10-17T00:00:00
+150,Camilo Escalona Medina,Masculino,1955-06-15T00:00:00
+151,Mario Escobar Urbina,Masculino,1952-03-09T00:00:00
+155,José Antonio Galilea Vidaurre,Masculino,1961-11-19T00:00:00
+158,Guido Girardi Lavín,Masculino,1961-01-21T00:00:00
+159,Rosa González Román,Femenino,1942-07-23T00:00:00
+161,María Pía Guzmán Mena,Femenino,1957-06-23T00:00:00
+164,Carlos Hidalgo González,Masculino,1955-06-10T00:00:00
+165,Gonzalo Ibáñez Santa María,Masculino,1945-12-30T00:00:00
+166,Carmen Ibáñez Soto,Femenino,1959-02-07T00:00:00
+169,Víctor Jeame Barrueto,Masculino,1953-07-01T00:00:00
+170,Jaime Jiménez Villavicencio,Masculino,1963-04-06T00:00:00
+172,Carlos Kuschel Silva,Masculino,1953-03-16T00:00:00
+173,Eduardo Lagos Herrera,Masculino,1967-01-17T00:00:00
+175,Cristián Leay Morán,Masculino,1954-02-09T00:00:00
+176,Juan Pablo Letelier Morel,Masculino,1961-01-07T00:00:00
+177,Felipe Letelier Norambuena,Masculino,1956-05-11T00:00:00
+178,Arturo Longton Guerrero,Masculino,1948-06-25T00:00:00
+179,Pablo Longueira Montes,Masculino,1958-08-12T00:00:00
+181,Zarko Luksic Sandoval,Masculino,1956-05-06T00:00:00
+185,María Eugenia Mella Gajardo,Femenino,1952-03-04T00:00:00
+187,Darío Molina Sanhueza,Masculino,1966-06-20T00:00:00
+190,Waldo Mora Longa,Masculino,1942-12-12T00:00:00
+193,Pedro Muñoz Aburto,Masculino,1944-07-01T00:00:00
+195,Alejandro Navarro Brain,Masculino,1958-11-20T00:00:00
+202,Cristián Pareto Vergara,Masculino,1963-10-19T00:00:00
+205,Aníbal Pérez Lobos,Masculino,1948-01-20T00:00:00
+206,Ramón Pérez Opazo,Masculino,1933-12-03T00:00:00
+208,Víctor Pérez Varela,Masculino,1954-10-18T00:00:00
+209,Pablo Prieto Lorca,Masculino,1959-05-04T00:00:00
+211,Víctor Manuel Rebolledo González,Masculino,1949-06-06T00:00:00
+213,Edgardo Riveros Marín,Masculino,1949-09-03T00:00:00
+220,Edmundo Salas De La Fuente,Masculino,1936-09-09T00:00:00
+221,Leopoldo Sánchez Grunert,Masculino,1949-10-20T00:00:00
+222,Rodolfo Seguel Molina,Masculino,1953-09-20T00:00:00
+224,Exequiel Silva Ortiz,Masculino,1963-10-13T00:00:00
+226,Boris Tapia Martínez,Masculino,1941-08-27T00:00:00
+234,Mario Varela Herrera,Masculino,1953-11-12T00:00:00
+239,Edmundo Villouta Concha,Masculino,1926-09-17T00:00:00
+242,Néstor Jofré Núñez,Masculino,1947-10-19T00:00:00
+405,Andrés Allamand Zavala,Masculino,
+407,Armando Arancibia Calderón,Masculino,
+410,Andrés Aylwin Azocar,Masculino,
+411,Mariana Aylwin Oyarzún,Femenino,
+412,Ignacio Balbontín Arteaga,Masculino,
+415,Carlos Bombal Otaegui,Masculino,
+417,Carlos Cantero Ojeda,Masculino,
+424,Andrés Chadwick Piñera,Masculino,
+425,Iván De la Maza Maillet,Masculino,
+426,Carlos Dupré Silva,Masculino,
+428,Ramón Elizalde Hevia,Masculino,
+433,Jaime Estévez Valencia,Masculino,
+434,Miguel Angel Fantuzzi Hernández,Masculino,
+435,Luis Valentín Ferrada Valenzuela,Masculino,
+437,Rubén Gajardo Chacón,Masculino,
+443,José Luis González Rodríguez,Masculino,
+445,Mario Hamuy Berr,Masculino,
+448,José María Hurtado Ruiz-Tagle,Masculino,
+449,Octavio Jara Wolff,Masculino,
+452,Harry Jürgensen Caesar,Masculino,
+453,Vicente Karelovic Vrandecic,Masculino,
+463,José Makluf Campos,Masculino,
+467,Evelyn Matthei Fornet,Femenino,
+470,Sergio Morales Morales,Masculino,
+472,Eugenio Munizaga Rodríguez,Masculino,
+485,Jorge Pizarro Soto,Masculino,
+489,Romy Rebolledo Leyton,Femenino,
+491,Teodoro Ribera Neumann,Masculino,
+493,Claudio Rodríguez Cataldo,Masculino,
+495,Hosain Sabag Castillo,Masculino,
+497,Jorge Schaulsohn Brodsky,Masculino,
+500,Valentín Solís Cabezas,Masculino,
+502,Vicente Sota Barros,Masculino,
+503,Juan Enrique Taladriz García,Masculino,
+504,Isidoro Tohá González,Masculino,
+507,Raúl Urrutia Avila,Masculino,
+509,Carlos Valcarce Medina,Masculino,
+514,José Antonio Viera-Gallo Quesney,Masculino,
+516,Erick Villegas González,Masculino,
+519,Martita Wörner Tapia,Femenino,
+520,Héctor Zambrano Opazo,Masculino,
+603,Hugo Alamos Vásquez,Masculino,
+604,Gustavo Alessandri Balmaceda,Masculino,
+607,Nicanor Araya de la Cruz,Masculino,
+612,Hernán Bosselin Correa,Masculino,
+614,Jaime Alfonso Campos Quiroga,Masculino,
+617,Gustavo Cardemil Alfaro,Masculino,
+618,Baldemar Carrasco Muñoz,Masculino,
+621,Juan Concha Urbina,Masculino,
+626,Mario Devaud Ojeda,Masculino,
+634,Dionisio Faulbaum Mayorga,Masculino,
+639,Pedro Guzmán Alvarez,Masculino,
+641,Antonio Horvath Kiss,Masculino,
+643,Claudio Huepe García,Masculino,
+645,Sergio Jara Catalán,Masculino,
+649,Vladislav Kuzmicic Calderón,Masculino,
+652,Luis Leblanc Valenzuela,Masculino,
+656,María Maluenda Campos,Femenino,
+658,Juan Martínez Sepúlveda,Masculino,
+660,Manuel Matta Aragay,Masculino,1946-11-10T00:00:00
+662,Federico Mekis Martínez,Masculino,
+664,Jorge Molina Valdivieso,Masculino,
+666,Jorge Morales Adriasola,Masculino,
+668,Roberto Muñoz Barra,Masculino,
+671,Luis Navarrete Carvacho,Masculino,
+673,Héctor Olivares Solis,Masculino,
+675,Eugenio Ortega Riquelme,Masculino,
+677,Mario Palestro Rojas,Masculino,
+680,José Apolonio Peña Meza,Masculino,
+681,Juan Alberto Pérez Muñoz,Masculino,
+684,Sergio Pizarro Mackay,Masculino,
+688,Gustavo Ramírez Vergara,Masculino,
+693,Federico Ringeling Hunger,Masculino,
+696,José Alfonso Rodríguez Del Río,Masculino,
+697,Hugo Rodríguez Guerrero,Masculino,
+698,Laura Rodríguez Riccomini,Femenino,
+699,Hernán Rojo Avendaño,Masculino,
+700,Julio Rojos Astorga,Masculino,
+705,Carlos Smok Ubeda,Masculino,
+707,Juan Akin Soto Morales,Masculino,
+708,Andrés Sotomayor Mardones,Masculino,
+718,Milenko Vilicic Karnincic,Masculino,
+720,Guillermo Yunge Bustamante,Masculino,
+721,Martín Manterola,Masculino,
+800,Enrique Accorsi Opazo,Masculino,1948-08-17T00:00:00
+801,René Aedo Ormeño,Masculino,1960-02-04T00:00:00
+802,Sergio Aguiló Melo,Masculino,1953-02-09T00:00:00
+803,René Alinco Bustos,Masculino,1958-06-02T00:00:00
+804,Isabel Allende Bussi,Femenino,1945-01-18T00:00:00
+805,Claudio Alvarado Andrade,Masculino,1960-02-07T00:00:00
+806,Pedro Pablo Alvarez-Salamanca Büchi,Masculino,1948-04-10T00:00:00
+807,Rodrigo Alvarez Zenteno,Masculino,1966-07-30T00:00:00
+808,Pedro Araya Guerrero,Masculino,1974-06-16T00:00:00
+809,Gonzalo Arenas Hödar,Masculino,1972-12-13T00:00:00
+810,Gabriel Ascencio Mansilla,Masculino,1953-10-25T00:00:00
+811,Ramón Barros Montero,Masculino,1958-03-05T00:00:00
+812,Eugenio Bauer Jouanne,Masculino,1947-05-20T00:00:00
+813,Germán Becker Alvear,Masculino,1955-03-13T00:00:00
+814,Mario Bertolino Rendic,Masculino,1954-02-03T00:00:00
+815,Sergio Bobadilla Muñoz,Masculino,1958-03-25T00:00:00
+816,Jorge Burgos Varela,Masculino,1956-06-24T00:00:00
+817,Juan Bustos Ramírez,Masculino,1935-12-08T00:00:00
+818,Alberto Cardemil Herrera,Masculino,1945-11-01T00:00:00
+819,Guillermo Ceroni Fuentes,Masculino,1946-07-30T00:00:00
+820,Francisco Chahuán Chahuán,Masculino,1971-05-20T00:00:00
+821,Sergio Correa De la Cerda,Masculino,1938-05-12T00:00:00
+822,María Angélica Cristi Marfil,Femenino,1941-10-13T00:00:00
+823,Marcela Cubillos Sigall,Femenino,1967-02-02T00:00:00
+824,Alfonso De Urresti Longton,Masculino,1966-03-07T00:00:00
+825,Roberto Delmastro Naso,Masculino,1945-10-17T00:00:00
+826,Eduardo Díaz Del Río,Masculino,1973-12-17T00:00:00
+827,Marcelo Díaz Díaz,Masculino,1971-02-06T00:00:00
+828,Julio Dittborn Cordua,Masculino,1951-10-19T00:00:00
+829,Gonzalo Duarte Leiva,Masculino,1953-04-01T00:00:00
+830,Andrés Egaña Respaldiza,Masculino,1947-03-08T00:00:00
+831,Edmundo Eluchans Urenda,Masculino,1950-01-21T00:00:00
+832,Francisco Encina Moriamez,Masculino,1943-12-18T00:00:00
+833,Marco Enríquez-Ominami Gumucio,Masculino,1973-06-12T00:00:00
+834,Maximiano Errázuriz Eguiguren,Masculino,1945-09-28T00:00:00
+835,Alvaro Escobar Rufatt,Masculino,1966-12-16T00:00:00
+836,Marcos Espinosa Monardes,Masculino,1962-10-27T00:00:00
+837,Fidel Espinoza Sandoval,Masculino,1970-01-24T00:00:00
+838,Enrique Estay Peñaloza,Masculino,1958-03-30T00:00:00
+839,Ramón Farías Ponce,Masculino,1955-08-23T00:00:00
+840,Marcelo Forni Lobos,Masculino,1967-10-15T00:00:00
+841,Renán Fuentealba Vildósola,Masculino,1947-11-29T00:00:00
+842,Pablo Galilea Carrillo,Masculino,1963-01-31T00:00:00
+843,René Manuel García García,Masculino,1950-05-24T00:00:00
+844,Alejandro García-Huidobro Sanfuentes,Masculino,1952-04-19T00:00:00
+845,Guido Girardi Briere,Masculino,1934-11-17T00:00:00
+846,Joaquín Godoy Ibáñez,Masculino,1977-01-25T00:00:00
+847,Carolina Goic Boroevic,Femenino,1972-12-20T00:00:00
+848,Rodrigo González Torres,Masculino,1941-09-26T00:00:00
+849,Patricio Hales Dib,Masculino,1946-09-11T00:00:00
+850,Javier Hernández Hernández,Masculino,1954-08-07T00:00:00
+851,Amelia Herrera Silva,Femenino,
+852,Jorge Insunza Gregorio de las Heras,Masculino,1967-02-12T00:00:00
+853,Marta Isasi Barbieri,Femenino,1966-01-15T00:00:00
+854,Enrique Jaramillo Becker,Masculino,1937-07-11T00:00:00
+855,Carlos Abel Jarpa Wevar,Masculino,1944-11-24T00:00:00
+856,Tucapel Jiménez Fuentes,Masculino,1962-09-01T00:00:00
+857,José Antonio Kast Rist,Masculino,1966-01-18T00:00:00
+858,Juan Carlos Latorre Carmona,Masculino,1949-03-25T00:00:00
+859,Antonio Leal Labrín,Masculino,1950-01-10T00:00:00
+860,Roberto León Ramírez,Masculino,1951-02-11T00:00:00
+861,Juan Lobos Krause,Masculino,1960-12-05T00:00:00
+862,Pablo Lorenzini Basso,Masculino,1949-10-25T00:00:00
+863,Rosauro Martínez Labbé,Masculino,1950-11-11T00:00:00
+864,Juan Masferrer Pellizzari,Masculino,1940-11-19T00:00:00
+865,Patricio Melero Abaroa,Masculino,1956-06-19T00:00:00
+866,Fernando Meza Moncada,Masculino,1946-07-14T00:00:00
+867,Cristián Monckeberg Bruner,Masculino,1968-05-12T00:00:00
+868,Nicolás Monckeberg Díaz,Masculino,1973-07-31T00:00:00
+869,Manuel Monsalve Benavides,Masculino,1965-07-09T00:00:00
+870,Carlos Montes Cisternas,Masculino,1946-05-11T00:00:00
+871,Iván Moreira Barros,Masculino,1956-12-08T00:00:00
+872,Jaime Mulet Martínez,Masculino,1963-08-03T00:00:00
+873,Adriana Muñoz D'Albora,Femenino,1948-09-25T00:00:00
+874,Claudia Nogueira Fernández,Femenino,1969-11-26T00:00:00
+875,Iván Norambuena Farías,Masculino,1958-09-04T00:00:00
+876,Marco Antonio Núñez Lozano,Masculino,1966-09-02T00:00:00
+877,Sergio Ojeda Uribe,Masculino,1943-03-12T00:00:00
+878,Carlos Olivares Zepeda,Masculino,1952-05-25T00:00:00
+879,José Miguel Ortiz Novoa,Masculino,1941-11-22T00:00:00
+880,Clemira Pacheco Rivas,Femenino,1961-05-05T00:00:00
+881,Osvaldo Palma Flores,Masculino,1952-10-02T00:00:00
+882,Iván Paredes Fierro,Masculino,1958-06-04T00:00:00
+883,Denise Pascal Allende,Femenino,
+884,Darío Paya Mira,Masculino,1964-07-20T00:00:00
+885,José Pérez Arriagada,Masculino,1940-12-29T00:00:00
+886,Jaime Quintana Leal,Masculino,1967-10-22T00:00:00
+887,Carlos Recondo Lavanderos,Masculino,1954-04-27T00:00:00
+888,Alberto Robles Pantoja,Masculino,1956-10-04T00:00:00
+889,Manuel Rojas Molina,Masculino,1959-11-03T00:00:00
+890,Fulvio Rossi Ciocca,Masculino,1970-09-30T00:00:00
+891,Karla Rubilar Barahona,Femenino,1977-04-17T00:00:00
+892,María Antonieta Saa Díaz,Femenino,1943-01-08T00:00:00
+893,Jorge Sabag Villalobos,Masculino,1963-12-26T00:00:00
+894,Eduardo Saffirio Suárez,Masculino,1958-08-12T00:00:00
+895,Felipe Salaberry Soto,Masculino,1966-01-09T00:00:00
+896,Roberto Sepúlveda Hermosilla,Masculino,1955-08-17T00:00:00
+897,Alejandra Sepúlveda Orbenes,Femenino,1965-11-13T00:00:00
+898,Gabriel Silber Romo,Masculino,1976-09-15T00:00:00
+899,Laura Soto González,Femenino,1931-12-15T00:00:00
+900,Alejandro Sule Fernández,Masculino,1960-11-30T00:00:00
+901,Raúl Sunico Galdames,Masculino,1964-07-28T00:00:00
+902,Jorge Tarud Daccarett,Masculino,1953-07-19T00:00:00
+903,Carolina Tohá Morales,Femenino,1965-05-12T00:00:00
+904,Eugenio Tuma Zedan,Masculino,1945-07-29T00:00:00
+905,Marisol Turres Figueroa,Femenino,1964-07-13T00:00:00
+906,Jorge Ulloa Aguillón,Masculino,1958-09-15T00:00:00
+907,Gonzalo Uriarte Herrera,Masculino,1964-12-28T00:00:00
+908,Ignacio Urrutia Bonilla,Masculino,1957-09-16T00:00:00
+909,Ximena Valcarce Becerra,Femenino,1973-03-25T00:00:00
+910,Esteban Valenzuela Van Treek,Masculino,1964-03-12T00:00:00
+911,Patricio Vallespín López,Masculino,1964-04-24T00:00:00
+912,Alfonso Vargas Lyng,Masculino,1951-12-16T00:00:00
+913,Mario Venegas Cárdenas,Masculino,1957-12-03T00:00:00
+914,Samuel Venegas Rubio,Masculino,1938-04-01T00:00:00
+915,Germán Verdugo Soto,Masculino,1948-10-05T00:00:00
+916,Ximena Vidal Lázaro,Femenino,1955-01-01T00:00:00
+917,Gastón Von Mühlenbrock Zamora,Masculino,1954-12-26T00:00:00
+918,Patricio Walker Prieto,Masculino,1969-04-28T00:00:00
+919,Felipe Ward Edwards,Masculino,1972-09-14T00:00:00
+920,Marcelo Schilling Rodríguez,Masculino,1949-05-18T00:00:00
+921,Lily Pérez San Martín,Femenino,1963-05-10T00:00:00
+922,Felipe Harboe Bascuñán,Masculino,1972-07-20T00:00:00
+923,Pedro Pablo Álvarez-Salamanca Ramírez,Masculino,1976-02-18T00:00:00
+924,Osvaldo Andrade Lara,Masculino,1953-06-02T00:00:00
+925,Pepe Auth Stewart,Masculino,1957-03-06T00:00:00
+926,Nino Baltolu Rasera,Masculino,1953-09-28T00:00:00
+927,Pedro Browne Urrejola,Masculino,1972-06-29T00:00:00
+928,Giovanni Calderón Bassi,Masculino,1971-07-08T00:00:00
+929,Cristián Campos Jara,Masculino,1972-11-18T00:00:00
+930,Lautaro Carmona Soto,Masculino,1952-04-26T00:00:00
+931,Juan Luis Castro González,Masculino,1960-04-18T00:00:00
+932,Eduardo Cerda García,Masculino,1933-01-01T00:00:00
+933,Aldo Cornejo González,Masculino,1955-04-19T00:00:00
+934,Fuad Chahin Valenzuela,Masculino,1976-12-01T00:00:00
+935,Rojo Edwards Silva,Masculino,1977-07-15T00:00:00
+936,Cristina Girardi Lavín,Femenino,1962-01-09T00:00:00
+937,Hugo Gutiérrez Gálvez,Masculino,1961-10-05T00:00:00
+938,Romilio Gutiérrez Pino,Masculino,1962-02-17T00:00:00
+939,Gustavo Hasbún Selume,Masculino,1972-08-02T00:00:00
+940,María José Hoffmann Opazo,Femenino,1976-12-28T00:00:00
+941,Luis Lemus Aracena,Masculino,1961-12-23T00:00:00
+942,Javier Macaya Danús,Masculino,1978-11-11T00:00:00
+943,Miodrag Marinovic Solo de Zaldívar,Masculino,1967-01-07T00:00:00
+944,Andrea Molina Oliva,Femenino,1970-03-28T00:00:00
+945,Celso Morales Muñoz,Masculino,1957-07-10T00:00:00
+946,Leopoldo Pérez Lahsen,Masculino,1957-03-28T00:00:00
+947,Ricardo Rincón González,Masculino,1966-03-22T00:00:00
+948,Gaspar Rivas Sánchez,Masculino,1978-05-17T00:00:00
+949,Marcela Sabat Fernández,Femenino,1981-04-04T00:00:00
+950,René Saffirio Espinoza,Masculino,1955-10-09T00:00:00
+951,David Sandoval Plaza,Masculino,1952-10-20T00:00:00
+952,Alejandro Santana Tirachini,Masculino,1965-07-18T00:00:00
+953,Frank Sauerbaum Muñoz,Masculino,1972-11-21T00:00:00
+954,Ernesto Silva Méndez,Masculino,1975-08-15T00:00:00
+955,Arturo Squella Ovalle,Masculino,1978-09-25T00:00:00
+956,Guillermo Teillier Del Valle,Masculino,1943-10-29T00:00:00
+957,Víctor Torres Jeldes,Masculino,1975-10-11T00:00:00
+958,Joaquín Tuma Zedan,Masculino,1941-07-09T00:00:00
+959,Enrique Van Rysselberghe Herrera,Masculino,1976-09-17T00:00:00
+960,Orlando Vargas Pizarro,Masculino,1952-07-13T00:00:00
+961,Pedro Velásquez Seguel,Masculino,1964-08-05T00:00:00
+962,Carlos Vilches Guzmán,Masculino,1944-10-20T00:00:00
+963,Matías Walker Prieto,Masculino,1973-07-19T00:00:00
+964,Mónica Zalaquett Said,Femenino,1962-05-04T00:00:00
+965,Cristian Letelier Aguilar,Masculino,1954-05-18T00:00:00
+966,Joel Rosales Guzmán,Masculino,1955-01-12T00:00:00
+967,Issa Kort Garriga,Masculino,1980-05-09T00:00:00
+968,Jenny Álvarez Vera,Femenino,1974-03-30T00:00:00
+969,Claudio Arriagada Macaya,Masculino,1955-10-22T00:00:00
+970,Jaime Bellolio Avaria,Masculino,1980-11-29T00:00:00
+971,Bernardo Berger Fett,Masculino,1946-10-04T00:00:00
+972,Gabriel Boric Font,Masculino,1986-02-11T00:00:00
+973,Karol Cariola Oliva,Femenino,1987-04-01T00:00:00
+974,Loreto Carvajal Ambiado,Femenino,1973-05-18T00:00:00
+975,Daniella Cicardini Milla,Femenino,1987-12-31T00:00:00
+976,Juan Antonio Coloma Álamos,Masculino,1980-03-14T00:00:00
+977,Marcelo Chávez Velásquez,Masculino,1975-02-19T00:00:00
+978,Felipe De Mussy Hiriart,Masculino,1982-09-28T00:00:00
+979,Sergio Espejo Yaksic,Masculino,1967-03-15T00:00:00
+980,Daniel Farcas Guendelman,Masculino,1963-11-02T00:00:00
+981,Maya Fernández Allende,Femenino,1971-09-27T00:00:00
+982,Iván Flores García,Masculino,1955-06-15T00:00:00
+983,Iván Fuentes Castillo,Masculino,1967-07-24T00:00:00
+984,Gonzalo Fuenzalida Figueroa,Masculino,1973-06-18T00:00:00
+985,Sergio Gahona Salazar,Masculino,1965-09-15T00:00:00
+986,Marcela Hernando Pérez,Femenino,1960-02-12T00:00:00
+987,Giorgio Jackson Drago,Masculino,1987-02-06T00:00:00
+988,Felipe Kast Sommerhoff,Masculino,1977-06-09T00:00:00
+989,Joaquín Lavín León,Masculino,1979-05-25T00:00:00
+990,Daniel Melo Contreras,Masculino,1979-02-18T00:00:00
+991,Vlado Mirosevic Verdugo,Masculino,1987-05-23T00:00:00
+992,Juan Enrique Morano Cornejo,Masculino,1952-09-10T00:00:00
+993,Daniel Núñez Arancibia,Masculino,1971-01-07T00:00:00
+994,Paulina Núñez Urrutia,Femenino,1982-12-30T00:00:00
+995,Diego Paulsen Kehr,Masculino,1987-08-01T00:00:00
+996,Jaime Pilowsky Greene,Masculino,1965-12-03T00:00:00
+997,Roberto Poblete Zapata,Masculino,1955-01-08T00:00:00
+998,Yasna Provoste Campillay,Femenino,1969-12-16T00:00:00
+999,Jorge Rathgeb Schifferli,Masculino,1967-12-28T00:00:00
+1000,Luis Rocafull López,Masculino,1958-09-17T00:00:00
+1001,Raúl Saldívar Auger,Masculino,1951-06-02T00:00:00
+1002,Leonardo Soto Ferrada,Masculino,1966-05-15T00:00:00
+1003,Renzo Trisotti Martínez,Masculino,1976-03-15T00:00:00
+1004,Christian Urízar Muñoz,Masculino,1968-05-27T00:00:00
+1005,Osvaldo Urrutia Soto,Masculino,1951-11-28T00:00:00
+1006,Camila Vallejo Dowling,Femenino,1988-04-28T00:00:00
+1007,Miguel Ángel Alvarado Ramírez,Masculino,1961-07-10T00:00:00
+1008,Florcita Alarcón Rojas,Masculino,1945-10-15T00:00:00
+1009,Jorge Alessandri Vergara,Masculino,1979-06-08T00:00:00
+1010,Sebastián Álvarez Ramírez,Masculino,1970-11-13T00:00:00
+1011,Sandra Amar Mancilla,Femenino,1955-11-24T00:00:00
+1012,Boris Barrera Moreno,Masculino,1970-05-03T00:00:00
+1013,Alejandro Bernales Maldonado,Masculino,1979-02-02T00:00:00
+1014,Karim Bianchi Retamales,Masculino,1983-01-31T00:00:00
+1015,Jorge Brito Hasbún,Masculino,1990-01-12T00:00:00
+1016,Miguel Ángel Calisto Águila,Masculino,1985-07-19T00:00:00
+1017,Álvaro Carter Fernández,Masculino,1980-10-09T00:00:00
+1018,Natalia Castillo Muñoz,Femenino,1982-08-01T00:00:00
+1019,José Miguel Castro Bascuñán,Masculino,1974-08-05T00:00:00
+1020,Ricardo Celis Araya,Masculino,1955-07-11T00:00:00
+1021,Andrés Celis Montt,Masculino,1975-04-08T00:00:00
+1022,Sofía Cid Versalovic,Femenino,1971-09-29T00:00:00
+1023,Miguel Crispi Serrano,Masculino,1985-04-09T00:00:00
+1024,Luciano Cruz-Coke Carvallo,Masculino,1970-07-01T00:00:00
+1025,Catalina Del Real Mihovilovic,Femenino,1968-11-07T00:00:00
+1026,Mario Desbordes Jiménez,Masculino,1968-10-15T00:00:00
+1027,Jorge Durán Espinoza,Masculino,1980-12-17T00:00:00
+1028,Eduardo Durán Salinas,Masculino,1972-01-01T00:00:00
+1029,Francisco Eguiguren Correa,Masculino,1967-07-13T00:00:00
+1030,Camila Flores Oporto,Femenino,1987-02-09T00:00:00
+1031,Juan Fuenzalida Cobo,Masculino,1973-07-01T00:00:00
+1032,Ramón Galleguillos Castillo,Masculino,1963-07-26T00:00:00
+1033,Renato Garín González,Masculino,1986-05-30T00:00:00
+1034,Félix González Gatica,Masculino,1972-05-26T00:00:00
+1035,Carmen Hertz Cádiz,Femenino,1945-06-19T00:00:00
+1036,Tomás Hirsch Goldschmidt,Masculino,1956-07-19T00:00:00
+1037,Diego Ibáñez Cotroneo,Masculino,1989-01-25T00:00:00
+1038,Marcos Ilabaca Cerda,Masculino,1970-10-05T00:00:00
+1039,Pamela Jiles Moreno,Femenino,1960-11-30T00:00:00
+1040,Harry Jürgensen Rundshagen,Masculino,1968-09-03T00:00:00
+1041,Pablo Kast Sommerhoff,Masculino,1973-08-24T00:00:00
+1042,Sebastián Keitel Bianchi,Masculino,1973-02-14T00:00:00
+1043,Amaro Labra Sepúlveda,Masculino,1949-10-25T00:00:00
+1044,Raúl Leiva Carvajal,Masculino,1974-03-24T00:00:00
+1045,Aracely Leuquén Uribe,Femenino,1980-11-24T00:00:00
+1046,Andrés Longton Herrera,Masculino,1982-05-26T00:00:00
+1047,Karin Luck Urban,Femenino,1971-07-19T00:00:00
+1048,Carolina Marzán Pinto,Femenino,1963-12-22T00:00:00
+1049,Cosme Mellado Pino,Masculino,1960-02-24T00:00:00
+1050,Miguel Mellado Suazo,Masculino,1958-12-29T00:00:00
+1051,Claudia Mix Jiménez,Femenino,1969-07-13T00:00:00
+1052,Andrés Molina Magofke,Masculino,1963-11-17T00:00:00
+1053,Cristhian Moreira Barros,Masculino,1961-09-05T00:00:00
+1054,Francesca Muñoz González,Femenino,1980-03-07T00:00:00
+1055,Nicolás Noman Garrido,Masculino,1981-05-07T00:00:00
+1056,Emilia Nuyado Ancapichun,Femenino,1968-08-17T00:00:00
+1057,Erika Olivera De La Fuente,Femenino,1976-01-04T00:00:00
+1058,Maite Orsini Pascal,Femenino,1988-02-23T00:00:00
+1059,Ximena Ossandón Irarrázabal,Femenino,1963-12-13T00:00:00
+1060,Luis Pardo Sáinz,Masculino,1960-12-13T00:00:00
+1061,Andrea Parra Sauterel,Femenino,1967-09-02T00:00:00
+1062,Joanna Pérez Olea,Femenino,1976-04-01T00:00:00
+1063,Catalina Pérez Salinas,Femenino,1990-12-18T00:00:00
+1064,Pablo Prieto Lorca,Masculino,1959-05-04T00:00:00
+1065,Guillermo Ramírez Diez,Masculino,1979-04-16T00:00:00
+1066,Rolando Rentería Moller,Masculino,1968-08-19T00:00:00
+1067,Hugo Rey Martínez,Masculino,1973-12-06T00:00:00
+1068,Camila Rojas Valderrama,Femenino,1991-03-11T00:00:00
+1069,Leonidas Romero Sáez,Masculino,1955-10-15T00:00:00
+1070,Patricio Rosas Barrientos,Masculino,1968-05-06T00:00:00
+1071,Gastón Saavedra Chandía,Masculino,1955-11-22T00:00:00
+1072,Gustavo Sanhueza Dueñas,Masculino,1966-12-10T00:00:00
+1073,Juan Santana Castillo,Masculino,1989-09-20T00:00:00
+1074,Marisela Santibáñez Novoa,Femenino,1975-04-24T00:00:00
+1075,Diego Schalper Sepúlveda,Masculino,1985-03-14T00:00:00
+1076,Alexis Sepúlveda Soto,Masculino,1969-12-29T00:00:00
+1077,Raúl Soto Mardones,Masculino,1987-11-20T00:00:00
+1078,Jaime Tohá González,Masculino,1938-06-16T00:00:00
+1079,Sebastián Torrealba Alvarado,Masculino,1981-02-06T00:00:00
+1080,Virginia Troncoso Hellman,Femenino,1951-02-18T00:00:00
+1081,Francisco Undurraga Gazitúa,Masculino,1965-09-29T00:00:00
+1082,Cristóbal Urruticoechea Ríos,Masculino,1975-11-21T00:00:00
+1083,Esteban Velásquez Núñez,Masculino,1962-12-26T00:00:00
+1084,Daniel Verdessi Belemmi,Masculino,1952-12-15T00:00:00
+1085,Pablo Vidal Rojas,Masculino,1983-06-24T00:00:00
+1086,Gonzalo Winter Etcheberry,Masculino,1987-01-06T00:00:00
+1087,Gael Yeomans Araya,Femenino,1988-12-04T00:00:00
+1088,Camilo Morán Bahamondes,Masculino,1990-04-17T00:00:00
+1089,Nora Cuevas Contreras,Femenino,1959-01-04T00:00:00
+1090,Tomás Andrés Fuentes Barros,Masculino,1985-03-10T00:00:00
+1091,Rubén Moraga Mamani,Masculino,1965-07-01T00:00:00
+1092,Marcela Sandoval Osorio,Femenino,1974-02-09T00:00:00
+1093,Patricia Rubio Escobar,Femenino,1970-08-01T00:00:00
+1094,Cristian Labbé Martínez,Masculino,1980-03-06T00:00:00
+1095,Juan Manuel Masferrer Vidal,Masculino,1980-05-01T00:00:00
+1096,María Candelaria Acevedo Sáez,Femenino,1958-09-12T00:00:00
+1097,Eric Aedo Jeldres,Masculino,1968-07-13T00:00:00
+1098,Yovana Ahumada Palma,Femenino,1973-02-24T00:00:00
+1099,Jaime Araya Guerrero,Masculino,1976-02-04T00:00:00
+1100,Cristián Araya Lerdo de Tejada,Masculino,1988-09-30T00:00:00
+1101,Mónica Arce Castro,Femenino,1976-03-02T00:00:00
+1102,Roberto Arroyo Muñoz,Masculino,1963-11-29T00:00:00
+1103,Danisa Astudillo Peiretti,Femenino,1975-05-03T00:00:00
+1104,Chiara Barchiesi Chávez,Femenino,1996-12-22T00:00:00
+1105,Héctor Barría Angulo,Masculino,1980-04-24T00:00:00
+1106,Miguel Ángel Becker Alvear,Masculino,1960-10-07T00:00:00
+1107,María Francisca Bello Campos,Femenino,1987-09-17T00:00:00
+1108,Juan Carlos Beltrán Silva,Masculino,1962-12-19T00:00:00
+1109,Gustavo Benavente Vergara,Masculino,1966-08-13T00:00:00
+1110,Carlos Bianchi Chelech,Masculino,1960-11-04T00:00:00
+1111,Fernando Bórquez Montecinos,Masculino,1968-06-06T00:00:00
+1112,Ana María Bravo Castro,Femenino,1973-12-03T00:00:00
+1113,Marta Bravo Salinas,Femenino,1976-02-25T00:00:00
+1114,Félix Bugueño Sotelo,Masculino,1973-05-18T00:00:00
+1115,Mercedes Bulnes Núñez,Femenino,1950-06-06T00:00:00
+1116,Felipe Camaño Cárdenas,Masculino,1991-08-21T00:00:00
+1117,Nathalie Castillo Rojas,Femenino,1983-07-02T00:00:00
+1118,Ricardo Cifuentes Lillo,Masculino,1962-09-12T00:00:00
+1119,Sara Concha Smith,Femenino,1995-09-09T00:00:00
+1120,María Luisa Cordero Velásquez,Femenino,1943-01-23T00:00:00
+1121,Eduardo Cornejo Lagos,Masculino,1972-01-12T00:00:00
+1122,Luis Alberto Cuello Peña y Lillo,Masculino,1977-01-24T00:00:00
+1123,Gonzalo De la Carrera Correa,Masculino,1962-01-13T00:00:00
+1124,Tomás De Rementería Venegas,Masculino,1987-03-17T00:00:00
+1125,Viviana Delgado Riquelme,Femenino,1973-09-04T00:00:00
+1126,Felipe Donoso Castro,Masculino,1982-12-12T00:00:00
+1127,Lorena Fries Monleón,Femenino,1960-04-01T00:00:00
+1128,Ana María Gazmuri Vieira,Femenino,1966-01-22T00:00:00
+1129,Andrés Giordano Salazar,Masculino,1986-12-29T00:00:00
+1130,Marta González Olea,Femenino,1980-10-23T00:00:00
+1131,Mauro González Villarroel,Masculino,1985-05-25T00:00:00
+1132,Jorge Guzmán Zepeda,Masculino,1985-06-11T00:00:00
+1133,Juan Irarrázaval Rossel,Masculino,1983-06-23T00:00:00
+1134,Andrés Jouannet Valderrama,Masculino,1967-07-29T00:00:00
+1135,Johannes Kaiser Barents-Von Hohenhagen,Masculino,1976-01-05T00:00:00
+1136,Paula Labra Besserer,Femenino,1987-05-04T00:00:00
+1137,Tomás Lagomarsino Guzmán,Masculino,1990-07-13T00:00:00
+1138,Henry Leal Bizama,Masculino,1972-09-16T00:00:00
+1139,Enrique Lee Flores,Masculino,1967-12-16T00:00:00
+1140,Daniel Lilayu Vivanco,Masculino,1949-03-02T00:00:00
+1141,Luis Malla Valenzuela,Masculino,1992-05-16T00:00:00
+1142,Daniel Manouchehri Lobos,Masculino,1984-05-25T00:00:00
+1143,Cristóbal Martínez Ramírez,Masculino,1984-04-30T00:00:00
+1144,Christian Matheson Villán,Masculino,1957-12-17T00:00:00
+1145,Karen Medina Vásquez,Femenino,1982-05-10T00:00:00
+1146,José Carlos Meza Pereira,Masculino,1989-03-07T00:00:00
+1147,Helia Molina Milman,Femenino,1947-04-02T00:00:00
+1148,Javiera Morales Alvarado,Femenino,1983-11-16T00:00:00
+1149,Carla Morales Maldonado,Femenino,1977-10-27T00:00:00
+1150,Benjamín Moreno Bascur,Masculino,1993-04-02T00:00:00
+1151,Camila Musante Müller,Femenino,1990-02-06T00:00:00
+1152,Gloria Naveillan Arriagada,Femenino,1960-11-03T00:00:00
+1153,Coca Ericka Ñanco Vásquez,Femenino,1992-03-20T00:00:00
+1154,Mauricio Ojeda Rebolledo,Masculino,1982-01-19T00:00:00
+1155,Rubén Darío Oyarzo Figueroa,Masculino,1980-12-13T00:00:00
+1156,Hernán Palma Pérez,Masculino,1958-11-03T00:00:00
+1157,Marlene Pérez Cartes,Femenino,1973-05-10T00:00:00
+1158,Víctor Alejandro Pino Fuentes,Masculino,1974-12-08T00:00:00
+1159,Lorena Pizarro Sierra,Femenino,1966-02-14T00:00:00
+1160,Alejandra Placencia Cabello,Femenino,1978-02-14T00:00:00
+1161,Francisco Pulgar Castillo,Masculino,1971-05-27T00:00:00
+1162,Matías Ramírez Pascal,Masculino,1984-11-14T00:00:00
+1163,Marcia Raphael Mora,Femenino,1963-12-06T00:00:00
+1164,Marcela Riquelme Aliaga,Femenino,1973-03-04T00:00:00
+1165,Agustín Romero Leiva,Masculino,1975-01-03T00:00:00
+1166,Natalia Romero Talguia,Femenino,1985-06-29T00:00:00
+1167,Jaime Sáez Quiroz,Masculino,1985-12-09T00:00:00
+1168,Jorge Saffirio Espinoza,Masculino,1953-06-09T00:00:00
+1169,Clara Sagardía Cabezas,Femenino,1952-08-13T00:00:00
+1170,Luis Sánchez Ossa,Masculino,1988-10-04T00:00:00
+1171,Emilia Schneider Videla,Femenino,1996-10-23T00:00:00
+1172,Stephan Schubert Rubio,Masculino,1977-12-19T00:00:00
+1173,Daniela Serrano Salazar,Femenino,1995-03-17T00:00:00
+1174,Marco Antonio Sulantay Olivares,Masculino,1973-03-31T00:00:00
+1175,Cristián Tapia Ramos,Masculino,1968-07-14T00:00:00
+1176,Hotuiti Teao Drago,Masculino,1977-08-01T00:00:00
+1177,Carolina Tello Rojas,Femenino,1985-10-01T00:00:00
+1178,Héctor Ulloa Aguilera,Masculino,1969-08-06T00:00:00
+1179,Alberto Undurraga Vicuña,Masculino,1969-06-17T00:00:00
+1180,Consuelo Veloso Ávila,Femenino,1994-02-11T00:00:00
+1181,Nelson Venegas Salazar,Masculino,1974-04-27T00:00:00
+1182,Sebastián Videla Castillo,Masculino,1986-04-29T00:00:00
+1183,Flor Weisse Novoa,Femenino,1960-03-27T00:00:00
+1184,Roberto Celedón Fernández,Masculino,1947-01-31T00:00:00
+1185,Arturo Barrios Oteíza,Masculino,1967-07-22T00:00:00
+1186,Ignacio Achurra Díaz,Masculino,1979-10-17T00:00:00
+1187,Carlo Arqueros Pizarro,Masculino,1972-11-14T00:00:00
+1188,Marcos Barraza Gómez,Masculino,1973-03-25T00:00:00
+1189,Jaime Bassa Mercado,Masculino,1977-03-31T00:00:00
+1190,Enrique Bassaletti Riess,Masculino,1968-01-19T00:00:00
+1191,Valentina Becerra Peña,Femenino,1994-10-26T00:00:00
+1192,Lilian Betancurt Delgado,Femenino,1990-02-03T00:00:00
+1193,Patricio Briones Moller,Masculino,1972-03-10T00:00:00
+1194,Daniel Bustos Leal,Masculino,1981-11-07T00:00:00
+1195,Carlos Carvajal Gallardo,Masculino,1984-11-01T00:00:00
+1196,Priscilla Castillo Gerli,Femenino,1970-10-22T00:00:00
+1197,Carlos Chandía Alarcón,Masculino,1964-11-14T00:00:00
+1198,Paz Charpentier Rajcevich,Femenino,1989-05-02T00:00:00
+1199,Jaime Coloma Álamos,Masculino,1991-04-15T00:00:00
+1200,Cristian Contreras Radovic,Masculino,1969-12-21T00:00:00
+1201,Flor Contreras Vivallo,Femenino,1970-05-30T00:00:00
+1202,Eduardo Cretton Rebolledo,Masculino,1995-11-23T00:00:00
+1203,Sebastián Cristoffanini Jaraquemada,Masculino,1985-04-26T00:00:00
+1204,Francisco Crisóstomo Llanos,Masculino,1985-03-19T00:00:00
+1205,Carlos Cuadrado Prats,Masculino,1965-01-24T00:00:00
+1206,Carolina Cucumides Calderón,Femenino,1976-11-15T00:00:00
+1207,Valentina Cáceres Monsálvez,Femenino,1999-06-08T00:00:00
+1208,Jorge Díaz Ibarra,Masculino,1982-09-29T00:00:00
+1209,Matías Fernández Hartwig,Masculino,1987-02-16T00:00:00
+1210,Gustavo Gatica Villarroel,Masculino,1997-11-28T00:00:00
+1211,Sofía González Cortés,Femenino,1987-09-29T00:00:00
+1212,Erich Grohs Marín,Masculino,1980-08-11T00:00:00
+1213,Irací Hassler Jacob,Femenino,1990-11-06T00:00:00
+1214,Constanza Hube Portus,Femenino,1986-03-10T00:00:00
+1215,Álvaro Jofré Cáceres,Masculino,1971-10-16T00:00:00
+1216,Stephanie Jéldrez Ortiz,Femenino,1984-11-12T00:00:00
+1217,Pier Karlezi Hazleby,Masculino,1977-02-20T00:00:00
+1218,José Antonio Kast Adriasola,Masculino,1993-04-21T00:00:00
+1219,Tomás Kast Sommerhoff,Masculino,1979-09-29T00:00:00
+1220,Leandro Kunstmann Collado,Masculino,1987-06-15T00:00:00
+1221,Benjamín Lorca Inzunza,Masculino,1990-07-25T00:00:00
+1222,Andrea Macías Palma,Femenino,1979-08-25T00:00:00
+1223,Hans Marowski Cuevas,Masculino,1981-07-11T00:00:00
+1224,Cristian Mella Andaur,Masculino,1988-04-23T00:00:00
+1225,Cristian Menchaca Pinochet,Masculino,1963-03-13T00:00:00
+1226,José Montalva Feuerhake,Masculino,1985-05-28T00:00:00
+1227,Claudia Mora Vega,Femenino,1981-02-19T00:00:00
+1228,Paulina Muñoz Minte,Femenino,1984-02-28T00:00:00
+1229,Javier Muñoz Riquelme,Masculino,1967-11-21T00:00:00
+1230,Alex Nahuelquin Nahuelquin,Masculino,1976-08-12T00:00:00
+1231,Ximena Naranjo Pinto,Femenino,1974-01-30T00:00:00
+1232,Cristian Neira Martínez,Masculino,1982-05-03T00:00:00
+1233,Ricardo Neumann Bertín,Masculino,1987-12-13T00:00:00
+1234,Mario Olavarría Rodríguez,Masculino,1963-02-09T00:00:00
+1235,Javier Olivares Avendaño,Masculino,1983-10-11T00:00:00
+1236,Paula Olmos Contreras,Femenino,1982-11-06T00:00:00
+1237,Francisco Orrego Gutiérrez,Masculino,1986-10-06T00:00:00
+1238,Álvaro Ortiz Vera,Masculino,1977-10-24T00:00:00
+1239,Fabián Ossandón Briceño,Masculino,1988-02-02T00:00:00
+1240,Zandra Parisi Fernández,Femenino,1963-12-01T00:00:00
+1241,Patricio Pinilla Valencia,Masculino,1969-03-03T00:00:00
+1242,Rodrigo Ramírez Parra,Masculino,1969-09-02T00:00:00
+1243,Tamara Ramírez Ramírez,Femenino,1991-01-04T00:00:00
+1244,Claudia Reyes Larenas,Femenino,1980-05-27T00:00:00
+1245,Alejandro Riquelme Ducci,Masculino,1974-01-19T00:00:00
+1246,José Antonio Rivas Villalobos,Masculino,1961-03-07T00:00:00
+1247,Javiera Rodríguez Pascual,Femenino,1995-06-27T00:00:00
+1248,Felipe Ross Correa,Masculino,1986-09-18T00:00:00
+1249,Omar Sabat Guzmán,Masculino,1976-07-12T00:00:00
+1250,Bernardo Salinas Maya,Masculino,1964-11-20T00:00:00
+1251,Macarena Santelices Cañas,Femenino,1978-08-15T00:00:00
+1252,Constanza Schonhaut Soto,Femenino,1989-01-31T00:00:00
+1253,Fernando Ugarte Tejeda,Masculino,1979-02-11T00:00:00
+1254,Ignacio Urcullú Clèment-Lund,Masculino,1976-03-07T00:00:00
+1255,Eileen Urqueta Rojas,Femenino,1980-01-24T00:00:00
+1256,Tatiana Urrutia Herrera,Femenino,1982-09-17T00:00:00
+1257,Alejandra Valdebenito Torres,Femenino,1975-12-09T00:00:00
+1258,Guillermo Valdés Carmona,Masculino,1972-11-08T00:00:00
+1259,Juan Marcelo Valenzuela Henríquez,Masculino,1986-05-19T00:00:00
+1260,César Valenzuela Maass,Masculino,1989-01-05T00:00:00
+1261,Daniel Valenzuela Salazar,Masculino,1980-03-16T00:00:00
+1262,Diego Vergara Rodríguez,Masculino,1976-03-26T00:00:00
+1263,Sebastián Zamora Soto,Masculino,1997-12-10T00:00:00
+1264,Fernando Zamorano Peralta,Masculino,1987-10-06T00:00:00
+9999,. .,,
